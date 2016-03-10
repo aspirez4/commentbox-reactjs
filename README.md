@@ -4,9 +4,7 @@
 
 ## To use
 
-Start a server with one of the following:
-
-### Node
+Start a server:
 
 ```sh
 npm install
